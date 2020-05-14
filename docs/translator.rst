@@ -20,7 +20,7 @@ Once you have found clips that you think should be translated, go into the Aonah
 After you have made the addition to the spreadsheet, go into mikuri’s discord server and make a post in #find-translators-request with the following format:
 
 * REQUESTING TRANSLATION
-[entry ID in the aonahara sheet]
+$[entry ID in the aonahara sheet]
 [description of clips]
 Link1, timestamps
 Link2, timestamps
@@ -30,7 +30,7 @@ Link3, timestamps
 Ex. 
 
 * REQUESTING TRANSLATION
-ID - 1
+$ID - 1
 Description: aqua gets cucked by okayu and throws a fit
 youtube.com/whatever, [1:00-3:00, 45:23-56:45]
 youtube.com/whatever2, [1:23:23-1:43:45] 
