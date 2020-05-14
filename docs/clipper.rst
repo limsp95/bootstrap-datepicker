@@ -1,4 +1,4 @@
-Translator
+Clipper
 =======
 
 You’re in charge of submitting clips that you deem to be interesting. Just keep an eye out when you’re watching streams/archives. 
