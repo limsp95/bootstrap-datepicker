@@ -12,9 +12,12 @@ You can go to the Aonahara spreadsheet “requires subbing” tab to find a vide
 
 Go into ``#translation-progress`` in mikuri’s server and find the corresponding subber request post. React to it with a :thumbsup
 
+
 Start downloading, clipping, and subbing.
 
+
 Once you’ve finished that, put it into the folder with the corresponding ID and name your video “subbed”
+
 
 Go into the Aonahara spreadsheet and make an editor request. In addition, go into mikuri’s server and make a post in the #help-with-videos channel in the following format:
 
